@@ -53,9 +53,9 @@
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="dg" revision="jb4.2" groups="device" />
   <project path="device/samsung/d2att" name="device_samsung_d2att" remote="aokp" revision="jb-mr1" groups="device" />
   <project path="device/samsung/maguro" name="android_device_samsung_maguro" remote="xyaosp" revision="jellybean" groups="device" />
-  <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="xyaosp" revision="jb-mr1" groups="device" />
+  <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="dg" revision="jb4.2" groups="device" />
   <project path="device/samsung/qcom-common" name="device_samsung_qcom-common" remote="dg" revision="jb4.2" groups="device" />
-  <project path="device/samsung/toro" name="android_device_samsung_toro" remote="xyaosp" revision="jellybean" groups="device" />
+  <project path="device/samsung/toro" name="android_device_samsung_toro" remote="dg" revision="jb4.2" groups="device" />
   <project path="device/samsung/toroplus" name="android_device_samsung_toroplus" remote="xyaosp" revision="jellybean" groups="device" />
   <project path="device/samsung/tuna" name="android_device_samsung_tuna" remote="dg" revision="jb4.2" groups="device" />
   <project path="device/ti/panda" name="device/ti/panda" groups="device" />
@@ -208,9 +208,9 @@
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2" />
   <project path="external/tremolo" name="platform/external/tremolo" />
-  <project path="external/v8" name="external_v8" remote="xyaosp" revision="jellybean" />
+  <project path="external/v8" name="external_v8-42" remote="dg" revision="jellybean" />
   <project path="external/valgrind" name="platform/external/valgrind" />
-  <project path="external/webkit" name="external_webkit" remote="xyaosp" revision="jellybean" />
+  <project path="external/webkit" name="external_webkit-42" remote="dg" revision="jellybean" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
@@ -240,7 +240,7 @@
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xyaosp" revision="jellybean" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
-  <project path="frameworks/rs" name="frameworks_rs" remote="xyaosp" revision="jellybean" />
+  <project path="frameworks/rs" name="frameworks_rs" remote="dg" revision="jb4.2" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/wilhelm" name="UnicornButter/frameworks_wilhelm" remote="pub" revision="jb-mr1" />
@@ -281,7 +281,7 @@
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" revision="cm-10.1" />
-  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="xyaosp" revision="jellybean" />
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="dg" revision="jb4.2" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
