@@ -1,0 +1,15 @@
+Get Repo
+--------
+
+    mkdir ~/bin
+    export PATH=~/bin:$PATH
+    curl https://dl-ssl.google.com/dl/googlesource/git-repo/repo > ~/bin/repo
+    chmod a+x ~/bin/repo
+
+Syncing the Orca Project Source
+---------------------------------------
+
+    mkdir ~/orca
+    cd ~/orca
+    repo init -u https://github.com/bamtau/platform_manifest -b jb4.2
+    repo sync -j16
