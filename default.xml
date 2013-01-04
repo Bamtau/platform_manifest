@@ -235,7 +235,7 @@
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" />
   <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
-  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="xyaosp" revision="jellybean" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="dg" revision="jb4.2" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
   <project path="frameworks/rs" name="frameworks_rs" remote="dg" revision="jb4.2" />
   <project path="frameworks/support" name="platform/frameworks/support" />
