@@ -13,9 +13,6 @@
 
   <remote  name="pub"
            fetch="https://github.com/" />
-
-  <remote  name="xy"
-           fetch="https://github.com/xyaosp/" />
            
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
