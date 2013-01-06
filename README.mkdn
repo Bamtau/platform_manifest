@@ -11,8 +11,10 @@ Syncing the Orca Project Source
 
     mkdir ~/orca
     cd ~/orca
-    repo init -u git://github.com/Bamtau/platform_manifest.git -b jb4.2
+    repo init -u https://github.com/Bamtau/platform_manifest -b jb4.2
     repo sync -j16
 
 
 THE ORCA PROJECT - MIXING AOSP, AOKP, CM, FNV AND THE BEST CHERRY PICKS AROUND!
+
+best when compiled with Ubuntu 10.04
